@@ -1,0 +1,6 @@
+ca.crt
+dh.pem
+ipp.txt
+openvpn-status.log
+server.crt
+server.key
